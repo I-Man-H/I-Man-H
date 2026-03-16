@@ -6,8 +6,11 @@
 
 <p>
   <a href="mailto:imanh7294@gmail.com"><img src="https://img.shields.io/badge/Email-imanh7294%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
   <a href="https://github.com/I-Man-H"><img src="https://img.shields.io/badge/GitHub-I--Man--H-black?style=for-the-badge&logo=github" /></a>
+  
   <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/i-man-hosseini/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  
   <a href="https://www.youtube.com/@I-ManTT"><img src="https://img.shields.io/badge/YouTube-Table%20Tennis-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
