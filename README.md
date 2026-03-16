@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am an **MPhil candidate in Computer Science** with a background in **machine learning, computer vision, signal processing, and data analytics**. My research focuses on **multimodal emotion recognition using visual and physiological signals**, and I enjoy building intelligent systems that connect theory, experimentation, and practical impact.
+I am an **Researcher in Computer Science** with a background in **machine learning, computer vision, signal processing, and data analytics**. My research focuses on **multimodal emotion recognition using visual and physiological signals**, and I enjoy building intelligent systems that connect theory, experimentation, and practical impact.
 
 I have experience across **research, teaching, and engineering projects**, including machine learning pipelines, computer vision systems, digital communications, FPGA design, and embedded/system-level engineering.
 
