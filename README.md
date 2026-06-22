@@ -17,22 +17,24 @@
 
 ## About Me
 
-I am an **Researcher in Computer Science** with a background in **machine learning, computer vision, signal processing, and data analytics**. My research focuses on **multimodal emotion recognition using visual and physiological signals**, and I enjoy building intelligent systems that connect theory, experimentation, and practical impact.
+I am a **Data Scientist and ML Engineer** with a strong foundation in **deep learning, computer vision,
+and multimodal data systems**. I build end-to-end machine learning pipelines, from data ingestion
+and feature engineering through to model training, evaluation, and deployment. My work spans
+applied research and production systems, with hands-on experience in physiological signal
+processing, computer vision, and LLM-based applications.
 
 I have experience across **research, teaching, and engineering projects**, including machine learning pipelines, computer vision systems, digital communications, FPGA design, and embedded/system-level engineering.
 
 ---
 
-## Research Interests
+## Interests
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Multimodal Emotion Recognition
-- Physiological Signal Analysis
-- Signal Processing
-- Human Behaviour Modelling
-- Sensor-Based Intelligent Systems
+- Building and deploying production ML systems end-to-end — from data pipelines to model serving
+- LLM applications, RAG pipelines, and agentic AI systems
+- Computer vision and multimodal systems for health tech and wearable sensing
+- ML experimentation, A/B testing, and model evaluation frameworks
+- MLOps — reproducible pipelines, monitoring, and scalable model deployment
+- Applied AI in digital health and real-world sensing environments
 
 ---
 
@@ -40,7 +42,7 @@ I have experience across **research, teaching, and engineering projects**, inclu
 
 ### **Australian National University**
 **MPhil in Computer Science**  
-*Expected 2026*  
+*2026*  
 **Research topic:** Multimodal Emotion Recognition Agent using visual and physiological signals
 
 ### **Australian National University**
