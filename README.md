@@ -84,7 +84,7 @@ I have experience across **research, teaching, and engineering projects**, inclu
 
 ## Professional Experience
 
-### Research Assistant  
+### Data Scientist  
 **University of Canberra / Biosensing & Intelligent Systems**  
 *2022 – Present*
 
