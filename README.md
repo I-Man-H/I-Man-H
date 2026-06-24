@@ -108,76 +108,31 @@ I have experience across **research, teaching, and engineering projects**, inclu
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 Multimodal Emotion Recognition</h3>
-      <p>Research-focused work on recognizing emotion using visual and physiological signals with deep learning and multimodal analysis.</p>
-      <p><strong>Tech:</strong> Python, PyTorch, TensorFlow, Computer Vision, Biosignals</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
+      <h3>🧠 DeepVADNet — Multimodal Emotion Recognition</h3>
+      <p>End-to-end deep learning framework fusing facial expression and physiological signals (EEG, ECG, GSR) to simultaneously predict continuous VAD scores and discrete emotion labels. Achieves state-of-the-art results on DEAP (98.89% valence) and MAHNOB-HCI benchmarks.</p>
+      <p><strong>Stack:</strong> Python · PyTorch · Computer Vision · Biosignal Processing</p>
+      <a href="https://github.com/I-Man-H/DeepVADNet">🔗 Repository</a> · <a href="https://doi.org/10.1016/j.cviu.2024.104121">📄 Paper (Elsevier 2024)</a>
     </td>
     <td width="50%">
-      <h3>📷 CIFAR-10 Image Classification</h3>
-      <p>Implemented a convolutional neural network for classifying 10 image categories using the CIFAR-10 dataset.</p>
-      <p><strong>Tech:</strong> Python, PyTorch, Deep Learning</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>✍️ MNIST Digit Classification</h3>
-      <p>Built a CNN-based handwritten digit classifier using the MNIST dataset and evaluated model performance in Colab.</p>
-      <p><strong>Tech:</strong> Python, PyTorch</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
-    </td>
-    <td width="50%">
-      <h3>🚗 Object Detection with YOLOv3</h3>
-      <p>Implemented YOLOv3 for real-time object detection in images, including people and vehicles.</p>
-      <p><strong>Tech:</strong> Python, CNN, Computer Vision</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
+      <h3>🔍 RAG Pipeline</h3>
+      <p>Production-style retrieval-augmented generation system with LangChain, ChromaDB, and FastAPI. Includes four chunking strategies, similarity and MMR retrieval, conversational QA with session memory, source citations, and RAGAS evaluation.</p>
+      <p><strong>Stack:</strong> Python · LangChain · ChromaDB · FastAPI · Docker</p>
+      <a href="https://github.com/I-Man-H/rag-pipeline-demo">🔗 Repository</a>
     </td>
   </tr>
 
   <tr>
     <td width="50%">
-      <h3>🎗️ Breast Cancer Classification</h3>
-      <p>Applied machine learning methods to predict benign vs malignant tumours using feature-based analysis.</p>
-      <p><strong>Tech:</strong> Python, Machine Learning, Data Analysis</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
+      <h3>📊 SQL & Python Analytics Portfolio</h3>
+      <p>Three end-to-end analytical notebooks covering e-commerce revenue analysis, cohort retention modelling, and clinical hypothesis testing. Demonstrates window functions, multi-step CTEs, cohort construction, statistical testing, and effect size reporting.</p>
+      <p><strong>Stack:</strong> Python · DuckDB · SQL · Pandas · SciPy · Seaborn</p>
+      <a href="https://github.com/I-Man-H/sql-analytics-portfolio">🔗 Repository</a>
     </td>
     <td width="50%">
-      <h3>🌊 Lake George Modelling</h3>
-      <p>Analysed geographical data to model water-level dynamics and predict filling and evaporation behaviour.</p>
-      <p><strong>Tech:</strong> Python, Modelling, Statistical Analysis</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>📡 OFDM Reception & Synchronisation</h3>
-      <p>Implemented fading channel models and OFDM synchronisation algorithms for digital communications.</p>
-      <p><strong>Tech:</strong> Signal Processing, Communications, MATLAB/Python</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
-    </td>
-    <td width="50%">
-      <h3>💡 Smart Street Lighting System</h3>
-      <p>Designed an intelligent street-lighting system that adjusts brightness based on vehicle presence to reduce energy use.</p>
-      <p><strong>Tech:</strong> Embedded Systems, Systems Engineering</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>🎹 Touchscreen Synthesizer</h3>
-      <p>Designed an FPGA-based synthesizer capable of generating tones and effects using a touchscreen interface.</p>
-      <p><strong>Tech:</strong> FPGA, Digital Systems</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
-    </td>
-    <td width="50%">
-      <h3>🔋 Smart-device Docking Station</h3>
-      <p>Designed and tested a multi-device power supply system with converter design and circuit validation.</p>
-      <p><strong>Tech:</strong> Power Electronics, LT-Spice</p>
-      <a href="YOUR_REPO_LINK">🔗 View Project</a>
+      <h3>⚖️ Balance Scale Game</h3>
+      <p>Multiplayer web-based game built to study strategic decision-making under affective conditions. Designed for real-time data collection in game-theoretic experiments as part of PhD research.</p>
+      <p><strong>Stack:</strong> Node.js · Socket.io · JavaScript · MongoDB</p>
+      <a href="https://github.com/I-Man-H/Balance-Scale-Game">🔗 Repository</a>
     </td>
   </tr>
 </table>
@@ -201,22 +156,32 @@ I am particularly interested in building robust models that combine **visual dat
 ## Publications
 
 ### Journal Papers
-- **Deep learning model for simultaneous recognition of quantitative and qualitative emotion using visual and bio-sensing data**  
-  *Computer Vision and Image Understanding, 2024*  
+- **A systematic review and meta-analysis on dual-task sensor-based motion analysis for dementia detection**
+  *Frontiers in Digital Health, 2026*
+  Hosseini I, Northey JM, D'Cunha NM, Fernandez Rojas R, Shrestha A, Ghahramani M
+  [Read paper](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1728588/full)
+
+- **Deep learning model for simultaneous recognition of quantitative and qualitative emotion using visual and bio-sensing data**
+  *Computer Vision and Image Understanding, Elsevier, 2024*
   [Read paper](https://doi.org/10.1016/j.cviu.2024.104121)
 
-- **Assessing locomotive syndrome through instrumented five-time sit-to-stand test and machine learning**  
-  *Sensors, 2024*  
+- **Assessing locomotive syndrome through instrumented five-time sit-to-stand test and machine learning**
+  *Sensors, MDPI, 2024*
   [Read paper](https://www.mdpi.com/1424-8220/24/23/7727)
 
 ### Conference Papers
-- **Fall risk assessment using single IMU**  
-  *IEEE MeMeA, 2024*  
+- **Fall risk assessment using single IMU**
+  *IEEE MeMeA, 2024*
   [View publication](https://researchprofiles.canberra.edu.au/en/publications/fall-risk-assessment-using-single-imu/)
 
-- **Locomotive Syndrome Assessment in Older Adults Using a Single Inertial Measurement Unit**  
-  *IEEE INERTIAL, 2023*  
+- **Locomotive syndrome assessment in older adults using a single inertial measurement unit**
+  *IEEE INERTIAL, 2023*
   [Read paper](https://doi.org/10.1109/INERTIAL56358.2023.10103944)
+
+- **Performance analysis of a postural balance assessment mat prototype using inertial sensor**
+  *IEEE Sensors, 2022*
+  Ghahramani M, Hosseini I, Herath D
+  [Read paper](https://ieeexplore.ieee.org/abstract/document/9967035/)
 
 ---
 
